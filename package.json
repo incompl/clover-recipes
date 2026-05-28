@@ -1,0 +1,13 @@
+{
+  "name": "clover-recipes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static browser for scraped Clover Food Lab recipes.",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "npm run build && npx --yes serve site"
+  },
+  "dependencies": {
+    "marked": "^14.1.4"
+  }
+}
