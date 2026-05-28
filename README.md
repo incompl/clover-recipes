@@ -1,8 +1,6 @@
 # clover-recipes
 
-Clover Food Lab was a Boston-area vegetarian chain that started as an MIT food truck in 2008; after 17 years it [closed all 11 locations on May 28, 2026](https://www.bostonglobe.com/2026/05/26/business/clover-closing-restaurants-prices-jobs/) when no buyer was found. This repo archives the recipes and food posts from their blog before the site disappears.
-
-Posts from [cloverfoodlab.com/category/recipes-menu/](https://www.cloverfoodlab.com/category/recipes-menu/) scraped into markdown, plus a small static site to browse them.
+Clover Food Lab was a Boston-area vegetarian chain that started as an MIT food truck in 2008; after 17 years it [closed all 11 locations on May 28, 2026](https://www.bostonglobe.com/2026/05/26/business/clover-closing-restaurants-prices-jobs/) when no buyer was found. This repo archives the recipes and food posts from [their blog](https://www.cloverfoodlab.com/category/recipes-menu/) before it disappears, plus a small static site to browse them.
 
 ## Usage
 
